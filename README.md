@@ -7,9 +7,13 @@ Content-Based Filtering: Recommends movies based on their metadata (genres, cast
 Deep Learning: Uses PyTorch for training a neural network on movie embeddings.
 Similarity Measures: Uses Cosine Similarity and KNN for finding similar movies.
 📂 Dataset
+
+Dataset Link : https://drive.google.com/drive/folders/1t7PO3jjYMXv-cJt6XS70T9ObvOS8sYMi?usp=drive_link
+
 We use IMDb Movies Dataset containing:
 
 movies_metadata.csv: Movie details like ID, title, genres, cast, etc.
+
 ratings.csv: User ratings for movies.
 🚀 Installation & Setup
 1️⃣ Install Required Libraries

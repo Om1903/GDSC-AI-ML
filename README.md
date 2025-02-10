@@ -126,6 +126,8 @@ Recommends movies based on user behavior.
 ✅ Content-Based Filtering:
 Finds movies similar to a given movie.
 🔹 Example: If you like Inception, similar movies could be The Prestige, Memento, or Shutter Island.
+
+
 💡 Improvements & Future Work
 ✅ Implement hybrid recommendation (collaborative + content-based).
 ✅ Use autoencoders for feature embeddings.
